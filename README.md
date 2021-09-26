@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**JakubStas/JakubStas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software engineer living in Dublin, Ireland.
 
-Here are some ideas to get you started:
+#### Now
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🗺️ I'm a big fan of remote and distributed work.
+- 💬 I share what I've learned on software engineering on [my personal blog](https://jakubstas.com).
+- ⛰️ I love to spend my free time in the nature hiking.
+
+#### Bio
+
+- 🔭 I’m currently working for [Tenable](https://www.tenable.com)
+- 🌱 I’m currently learning about distributed systems and how to scale them
+
+#### Contact
+
+- [LinkedIn](https://www.linkedin.com/in/jakubstas/)
