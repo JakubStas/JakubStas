@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software engineer living in Dublin, Ireland.
+I am a software engineer living in Amsterdam, Netherlands.
 
 #### Now
 
